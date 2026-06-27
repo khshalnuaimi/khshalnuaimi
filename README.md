@@ -43,6 +43,7 @@ Several manuscripts on FOMC/ECB communication, facial-behavior benchmarks, and d
 
 | Repo | What it is |
 |---|---|
+| [sentiment-analysis-benchmark](https://github.com/khshalnuaimi/sentiment-analysis-benchmark) | A reproducible, leak-free NLP benchmark comparing classical ML, a from-scratch LSTM, and DistilBERT for sentiment classification on IMDB — negation-aware preprocessing, train-only vocabularies, consistent timing. |
 | [pairs-trading](https://github.com/khshalnuaimi/pairs-trading) | Statistical pairs trading from scratch — distance (SSD) and Engle–Granger cointegration pair selection, z-score signals, and a look-ahead-free backtest on public data, with a study comparing both selection families. |
 | [hierarchical-risk-parity](https://github.com/khshalnuaimi/hierarchical-risk-parity) | A from-scratch implementation of López de Prado's Hierarchical Risk Parity — correlation clustering, quasi-diagonalization, recursive bisection — with a five-task S&amp;P 500 sector study on public data. |
 
