@@ -35,7 +35,7 @@ Earlier work:
 
 | Paper | Venue / Year | What it shows |
 |---|---|---|
-| Deep Learning-Based Health Monitoring for Photovoltaic Systems | IEEE Journal of Photovoltaics, 2025 | A two-stage UAV-imagery pipeline (SegFormer segmentation + YOLOv8 anomaly detection) for PV health monitoring. My MSc thesis work. |
+| Deep Learning-Based Health Monitoring for Photovoltaic Systems | IEEE Journal of Photovoltaics, 2025 | A two-stage UAV-imagery pipeline (SegFormer segmentation + YOLOv8 anomaly detection) for PV health monitoring. My MSc thesis work. [code](https://github.com/khshalnuaimi/pv-health-monitoring) |
 
 Several manuscripts on FOMC/ECB communication, facial-behavior benchmarks, and discourse modeling are under review.
 
