@@ -43,6 +43,7 @@ Several manuscripts on FOMC/ECB communication, facial-behavior benchmarks, and d
 
 | Repo | What it is |
 |---|---|
+| [pairs-trading](https://github.com/khshalnuaimi/pairs-trading) | Statistical pairs trading from scratch — distance (SSD) and Engle–Granger cointegration pair selection, z-score signals, and a look-ahead-free backtest on public data, with a study comparing both selection families. |
 | [hierarchical-risk-parity](https://github.com/khshalnuaimi/hierarchical-risk-parity) | A from-scratch implementation of López de Prado's Hierarchical Risk Parity — correlation clustering, quasi-diagonalization, recursive bisection — with a five-task S&amp;P 500 sector study on public data. |
 
 More to come — agentic-LLM and autonomous-systems work, published as it's cleaned up. Some autonomous-systems research stays private; details on request.
